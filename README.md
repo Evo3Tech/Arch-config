@@ -1,1 +1,1 @@
-# Arch-configFile
+# Arch-config
